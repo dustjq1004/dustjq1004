@@ -15,3 +15,8 @@
 ### Link
 
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> 
+
+
+
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=firesub1005)](https://solved.ac/dustjq1004)
