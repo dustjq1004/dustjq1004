@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&fontSize=50&text=Live%20Positive)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&fontSize=50&text=Live%20Positive)-->
 
 
 ### skills
