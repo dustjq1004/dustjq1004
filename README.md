@@ -1,15 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&fontSize=50&text=Live%20Positive)-->
 
 
-### skills
-<img src="https://img.shields.io/badge/Java-3178C6?style=for-the-badge&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/><img src="https://img.shields.io/badge/Spring-3DDC84?style=for-the-badge&logo=Spring&logoColor=white"/>
- 
-
-### study
-
- <img src="https://img.shields.io/badge/Java-3178C6?style=for-the-badge&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/><img src="https://img.shields.io/badge/Spring-3DDC84?style=for-the-badge&logo=Spring&logoColor=white"/>
-
-
 
 ### 백준
 [![Solved.ac
